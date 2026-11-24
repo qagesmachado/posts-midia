@@ -49,5 +49,5 @@ Salve este post para revisar depois.
 | 1 | `01.jpg` | Precisa virar programador para testar? |
 | 2 | `02.jpg` | Não. Mas precisa do básico. Fica de fora. Construir o produto: o site, o sistema, a ciência de dados. Entra. O básico estruturado. Sem ele, o teste vira um script copiado que você não consegue mudar. |
 | 3 | `03.jpg` | O que o Python faz no teste. Escreve o teste. Conversa com outros sistemas (API). Controla o navegador. Mostra o erro quando falha. |
-| 4 | `04.jpg` | Por onde começar. venv e pipPreparar o projeto e instalar bibliotecas. Variável, lista e dicionárioGuardar o dado do teste. if, for e funçãoDecidir e não repetir passo. Classe e assertOrganizar o teste e conferir o resultado. |
+| 4 | `04.jpg` | Por onde começar. venv e pip. Preparar o projeto e instalar bibliotecas. Variável, lista e dicionário. Guardar o dado do teste. if, for e função. Decidir e não repetir passo. Classe e assert. Organizar o teste e conferir o resultado. |
 | 5 | `05.jpg` | Próximo post: venv e pip install. Salve este post para revisar depois. |
