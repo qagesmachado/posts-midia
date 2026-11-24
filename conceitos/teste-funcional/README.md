@@ -47,7 +47,7 @@ Salve este post para revisar depois.
 | Slide | Arquivo | Texto alternativo |
 | --- | --- | --- |
 | 1 | `01.jpg` | Você clica em Pagar. O que precisa acontecer? |
-| 2 | `02.jpg` | Teste funcional confere o que o sistema faz. O login aceita a senha certa. e recusa a errada. O carrinho soma os itens. e o total bate com a conta. O cupom de 10% dá 10%. nem mais, nem menos. |
-| 3 | `03.jpg` | O que diz o ISTQB. O Teste Funcional avalia as funções que um componente ou sistema deve executar. As funções são “o que” o objeto de teste deve fazer. 3. objetivos: integridade, correção e adequação. Em português claro: faz tudo o que foi pedido, faz certo e serve para a tarefa de quem usa. |
+| 2 | `02.jpg` | Teste funcional confere o que o sistema faz. O login aceita a senha certa e recusa a errada. O carrinho soma os itens e o total bate com a conta. O cupom de 10% dá 10%, nem mais, nem menos. |
+| 3 | `03.jpg` | O que diz o ISTQB. O Teste Funcional avalia as funções que um componente ou sistema deve executar. As funções são “o que” o objeto de teste deve fazer. 3 objetivos: integridade, correção e adequação. Em português claro: faz tudo o que foi pedido, faz certo e serve para a tarefa de quem usa. |
 | 4 | `04.jpg` | Como se testa uma função. O que foi pedido: aplicar o cupom. O esperado: total com 10% a menos. O obtido: o total que a tela mostra. |
 | 5 | `05.jpg` | Próximo post: Funcional e não funcional. Salve este post para revisar depois. |
