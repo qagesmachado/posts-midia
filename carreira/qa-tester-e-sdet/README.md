@@ -52,6 +52,6 @@ Desafio: hoje você está mais perto de tester, QA ou SDET? Responda T, Q ou S n
 | 2 | `02.jpg` | “Qual a diferença entre QA, tester e SDET?”. Pergunta clássica de entrevista. Cada nome olha para um lado. Arraste e veja qual. |
 | 3 | `03.jpg` | Tester: testa o produto. Escreve, documenta e executa os casos de teste. Registra os defeitos e falhas encontrados. Participa das validações com quem pediu o sistema. |
 | 4 | `04.jpg` | QA: cuida do processo. Muitos bugs chegam em produção, produção: o sistema no ar, com cliente usando. O QA investiga por quê, onde o processo deixou passar. O processo muda, nada sobe sem teste. Preventivo: um bom processo gera um bom produto. |
-| 5 | `05.jpg` | SDET. Software Development Engineer in Test. |
+| 5 | `05.jpg` | SDET. Software Development Engineer in Test. Um desenvolvedor, que trabalha no time de teste. Escreve código de teste: o foco é o teste, não o código do produto. |
 | 6 | `06.jpg` | Na prática, a vaga mistura os três. Gráfico: Três círculos que se cruzam: tester, QA e SDET. No meio, onde os três se encontram, está o QA do dia a dia. A lista do que se espera de um testador (Capacitação SQAE) já pede melhorar processos e automatizar testes. |
 | 7 | `07.jpg` | Desafio: hoje você está mais perto de tester, QA ou SDET? Responda T, Q ou S nos comentários. |
